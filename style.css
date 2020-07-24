@@ -64,7 +64,7 @@ h2 {
   width: 320px;
   padding: 15px;
   background-color: #f3f3f3;
-  background-image: url('/resources/img/search.svg');
+  background-image: url('resources/img/search.svg');
   background-size: 20px;
   background-repeat: no-repeat;
   background-position: right;
@@ -130,7 +130,7 @@ h2 {
       top: 0;
       left: 120px;
       padding-left: 15px;
-      background-image: url('/resources/img/icon-time.png');
+      background-image: url('resources/img/icon-time.png');
       background-repeat: no-repeat;
     }
 
@@ -139,7 +139,7 @@ h2 {
       top: 0;
       left: 180px;
       padding-left: 15px;
-      background-image: url('/resources/img/icon-comments.png');
+      background-image: url('resources/img/icon-comments.png');
       background-repeat: no-repeat;
     }
 
@@ -154,7 +154,7 @@ h2 {
 #central-container {
   padding-top: 20px;
   background-color: #f9f9f9;
-  background-image: url('/resources/img/central-bg-top.png');
+  background-image: url('resources/img/central-bg-top.png');
   background-repeat: repeat-x;
 }
 
@@ -183,7 +183,7 @@ h2 {
 }
 
 #news-one {
-  background-image: url('/resources/img/news_1.jpg');
+  background-image: url('resources/img/news_1.jpg');
   background-repeat: no-repeat;
   background-size: contain;
   height: 322px;
@@ -220,7 +220,7 @@ h2 {
 
 #news-one-time {
   position: absolute;
-  background-image: url('/resources/img/clock_opac.svg');
+  background-image: url('resources/img/clock_opac.svg');
   background-size: 15px;
   background-repeat: no-repeat;
   left: 125px;
@@ -303,7 +303,7 @@ h2 {
   top: -30px;
   left: 125px;
   padding-left: 20px;
-  background-image: url('/resources/img/icon-comments.png');
+  background-image: url('resources/img/icon-comments.png');
   background-size: 15px;
   background-repeat: no-repeat;
   /* float: right; */
@@ -315,7 +315,7 @@ h2 {
   top: -15px;
   left: 65px;
   font-size: 12px;
-  background-image: url('/resources/img/icon-time.png');
+  background-image: url('resources/img/icon-time.png');
   background-size: 15px;
   background-repeat: no-repeat;
   /* left: 125px; */
@@ -327,7 +327,7 @@ h2 {
 }
 
 #with-img {
-  background-image: url('/resources/img/cargo.jpg');
+  background-image: url('resources/img/cargo.jpg');
   background-repeat: no-repeat;
   background-size: contain;
   height: 393px;
@@ -356,7 +356,7 @@ h2 {
   top: -14px;
   left: 95px;
   padding-left: 15px;
-  background-image: url('/resources/img/clock_opac.svg');
+  background-image: url('resources/img/clock_opac.svg');
   background-repeat: no-repeat;
   background-size: 12px;
 }
@@ -484,7 +484,7 @@ footer {
   position: fixed;
   width: 100%;
   height: 100%;
-  background-image: url('/resources/img/bg-opac.png');
+  background-image: url('resources/img/bg-opac.png');
   z-index: 10;
 }
 
